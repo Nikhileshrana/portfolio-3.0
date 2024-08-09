@@ -1,0 +1,92 @@
+{
+  "cvlink": "https://export-download.canva.com/Ghed4/DAGGCXGhed4/106/0-8460448259574517650.pdf?",
+  "h1info" : "REACT.JS | TAILWIND CSS | TYPESCRIPT | MONGODB",
+  "words": [
+    {
+      "text": "Hi!"
+    },
+    {
+      "text": "I'm"
+    },
+    {
+      "text": "Nikhilesh Rana,"
+    },
+    {
+      "text": "a Next.js"
+    },
+    {
+      "text": "Developer"
+    }
+  ],
+  "featuredSection" : {
+    "infotitle": "I am Open for Job / Internship Opportunity.", 
+    "infodes": "I have 1+ Year of Experience and can work both On-Site and Remotely."
+  },
+  "testimonials": [
+    {
+      "quote": "It was the best of times, it was the worst of times, ...",
+      "name": "Charles Dickens",
+      "title": "A Tale of Two Cities"
+    },
+    {
+      "quote": "To be, or not to be, that is the question: ...",
+      "name": "William Shakespeare",
+      "title": "Hamlet"
+    },
+    {
+      "quote": "All that we see or seem is but a dream within a dream.",
+      "name": "Edgar Allan Poe",
+      "title": "A Dream Within a Dream"
+    },
+    {
+      "quote": "It is a truth universally acknowledged, that ...",
+      "name": "Jane Austen",
+      "title": "Pride and Prejudice"
+    },
+    {
+      "quote": "Call me Ishmael. Some years ago—never mind how long precisely—...",
+      "name": "Herman Melville",
+      "title": "Moby-Dick"
+    }
+  ],
+  "approachData": [
+    {
+      "card1": "Our Planning & Strategy",
+      "des1": "We'll collaborate to map out your website's goals, ..."
+    },
+    {
+      "card2": "Development & Progress Update",
+      "des2": "Once we agree on the plan, I cue my lofi playlist ..."
+    },
+    {
+      "card3": "Development & Launch",
+      "des3": "This is where the magic happens! Based on the approved design, i do the Magic"
+    }
+  ],
+  "projectInfo": [
+    {
+      "title": "1",
+      "description": "Customizable Tailwind CSS and Framer Motion Components.",
+      "href": "https://github.com/nikhileshrana",
+      "imageurl": "https://www.nikhileshrana.tech/uploads/1704037707283-Screenshot%202023-12-31%20195718.png"
+    },
+    {
+      "title": "2",
+      "description": "Customizable Tailwind CSS and Framer Motion Components.",
+      "href": "https://github.com/nikhileshrana",
+      "imageurl": "https://www.nikhileshrana.tech/uploads/1704037707283-Screenshot%202023-12-31%20195718.png"
+    },
+    {
+      "title": "3",
+      "description": "Customizable Tailwind CSS and Framer Motion Components.",
+      "href": "https://github.com/nikhileshrana",
+      "imageurl": "https://www.nikhileshrana.tech/uploads/1704037707283-Screenshot%202023-12-31%20195718.png"
+    },
+    {
+      "title": "4",
+      "description": "Customizable Tailwind CSS and Framer Motion Components.",
+      "href": "https://github.com/nikhileshrana",
+      "imageurl": "https://www.nikhileshrana.tech/uploads/1704037707283-Screenshot%202023-12-31%20195718.png"
+    }
+  ]
+}
