@@ -45,7 +45,7 @@ export function FeaturesSectionDemo(props:any) {
       >
         <Meteors number={20} />
         <p className="text-white text-sm md:text-2xl max-w-xl font-bold mt-6 text-center ">
-          Do you want to start a project together?
+        Liked my Portfolio? Here's my email address. 
         </p>
         <div className="flex flex-col sm:flex-row items-center h-full gap-4 mt-6 sm:mt-2 z-auto ">
           <MagicButton

@@ -1,6 +1,6 @@
 {
   "cvlink": "https://www.canva.com/design/DAGGCXGhed4/qznWHMUmQijmtY_6GYBCng/view?utm_content=DAGGCXGhed4&utm_campaign=designshare&utm_medium=link&utm_source=editor",
-  "h1info" : "NEXT.JS | FULL STACK DEVELOPER",
+  "h1info" : "NEXT.JS | FULL STACK DEVELOPER | AI ENTHUSIAST",
   "words": [
     {
       "text": "Hi! 👋"
@@ -16,8 +16,8 @@
     }
   ],
   "featuredSection" : {
-    "infotitle": "I am Open for Job / Internship Opportunity.", 
-    "infodes": "I have 1+ Year of Experience and can work both On-Site and Remotely."
+    "infotitle": "I am Looking for Job / Internship Opportunity.", 
+    "infodes": "I have 1+ Year of Experience(Internships) and can work both On-Site and Remotely. Please view my resume or talk to my Co-Pilot for more information."
   },
   "testimonials": [
     {
@@ -62,28 +62,22 @@
   ],
   "projectInfo": [
     {
-      "title": "1",
-      "description": "Customizable Tailwind CSS and Framer Motion Components.",
+      "title": "SubverseAI SAAS",
+      "description": "Creted an SAAS AI Web Service that provides AI analytics and summary based on the call recording with proper database integration and RestAPI",
       "href": "https://github.com/nikhileshrana",
-      "imageurl": "https://www.nikhileshrana.tech/uploads/1704037707283-Screenshot%202023-12-31%20195718.png"
+      "imageurl": "https://media.licdn.com/dms/image/D5622AQFL9lhnGEyGBg/feedshare-shrink_800/0/1722966041924?e=1726099200&v=beta&t=MN5kxxbFICRQx_KC7a-XWxYafAU1zT1YLR4fBhw29VA"
     },
     {
-      "title": "2",
-      "description": "Customizable Tailwind CSS and Framer Motion Components.",
+      "title": "Astroverse Agent Co-Pilot",
+      "description": "A Prompt based Judgemental AI that resolves problem of copy/paste and low knowledge based prompts and filters out them by giving a score. which then is resolved by AI to predict the person's Knowledge.",
       "href": "https://github.com/nikhileshrana",
-      "imageurl": "https://www.nikhileshrana.tech/uploads/1704037707283-Screenshot%202023-12-31%20195718.png"
+      "imageurl": "https://media.licdn.com/dms/image/v2/D562DAQF62B2ZVsfsUw/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1723364677993?e=1723971600&v=beta&t=MNs6Ag1DHT8ooJtQcri9HlcetIH5hcqTbzBHtn9G1Y8"
     },
     {
-      "title": "3",
-      "description": "Customizable Tailwind CSS and Framer Motion Components.",
+      "title": "Next.js Based Music Player",
+      "description": "Seamless play, pause, and replay options Random song selection for a surprise every time Intuitive interface for smooth navigation",
       "href": "https://github.com/nikhileshrana",
-      "imageurl": "https://www.nikhileshrana.tech/uploads/1704037707283-Screenshot%202023-12-31%20195718.png"
-    },
-    {
-      "title": "4",
-      "description": "Customizable Tailwind CSS and Framer Motion Components.",
-      "href": "https://github.com/nikhileshrana",
-      "imageurl": "https://www.nikhileshrana.tech/uploads/1704037707283-Screenshot%202023-12-31%20195718.png"
+      "imageurl": "https://media.licdn.com/dms/image/v2/D562DAQEYHssCCAt9ug/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1715329416251?e=1723971600&v=beta&t=IGlCaEbjWXLlsSVVDDnnD4aQLlgwTqdL8E9k5Pihf8E"
     }
   ]
 }

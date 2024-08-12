@@ -21,8 +21,6 @@ import Chatbox from "@/app/components/Chatbox";
 
 export function Hero(props: any) {
 
-
-
   return (
     <>
       <div className=" bg-transparent h-[90vh] sm:h-screen w-full dark:bg-transparent bg-white  dark:bg-grid-white/[0.2] bg-grid-black/[0.2] relative flex items-center justify-center overflow-hidden ">
@@ -58,7 +56,10 @@ export function Hero(props: any) {
       />
     </svg>
   </div>
+
+
   <span className="absolute -bottom-0 left-[1.125rem] h-px w-[calc(100%-2.25rem)] bg-gradient-to-r from-emerald-400/0 via-emerald-400/90 to-emerald-400/0 transition-opacity duration-500 group-hover:opacity-40" />
+
 </div>
 
 
@@ -100,10 +101,10 @@ export function Hero(props: any) {
           </div>
         </div>
 
-        <Globe className="absolute  -right-[0%] sm:-right-[17%]  md:right-[2%] lg:right-[22%]  -bottom-[50%] md:-bottom-[50%]" />
+        <Globe className="absolute overflow-hidden sm:-bottom-80 "/>
       </div>
     </>
-  );
+  ); 
 }
 
 
