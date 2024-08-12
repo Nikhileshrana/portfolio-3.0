@@ -21,43 +21,38 @@
   },
   "testimonials": [
     {
-      "quote": "It was the best of times, it was the worst of times, ...",
-      "name": "Charles Dickens",
-      "title": "A Tale of Two Cities"
-    },
-    {
       "quote": "To be, or not to be, that is the question: ...",
-      "name": "William Shakespeare",
-      "title": "Hamlet"
+      "name": "Rishi",
+      "title": "CO-Founder SubverseAI"
     },
     {
       "quote": "All that we see or seem is but a dream within a dream.",
-      "name": "Edgar Allan Poe",
-      "title": "A Dream Within a Dream"
+      "name": "Tanmay Lad",
+      "title": "CO-Founder SubverseAI"
     },
     {
       "quote": "It is a truth universally acknowledged, that ...",
-      "name": "Jane Austen",
-      "title": "Pride and Prejudice"
+      "name": "Avinash Gupta",
+      "title": "CO-Founder Powerzest"
     },
     {
       "quote": "Call me Ishmael. Some years ago—never mind how long precisely—...",
-      "name": "Herman Melville",
-      "title": "Moby-Dick"
+      "name": "Raj Oak",
+      "title": "CO-Founder ZUGO"
     }
   ],
   "approachData": [
     {
-      "card1": "Our Planning & Strategy",
-      "des1": "We'll collaborate to map out your website's goals, ..."
+      "card1": "Requirements Gathering",
+      "des1": "Begin by understanding project requirements, creating a clear plan, and breaking down tasks."
     },
     {
-      "card2": "Development & Progress Update",
-      "des2": "Once we agree on the plan, I cue my lofi playlist ..."
+      "card2": "Development & Coding",
+      "des2": "Write clean, modular, and efficient code using best practices in your preferred languages and frameworks (e.g., Next.js, React.js, TypeScript)."
     },
     {
       "card3": "Development & Launch",
-      "des3": "This is where the magic happens! Based on the approved design, i do the Magic"
+      "des3": "Deploy the application to a staging environment for final checks before pushing it live to production."
     }
   ],
   "projectInfo": [
@@ -65,19 +60,19 @@
       "title": "SubverseAI SAAS",
       "description": "Creted an SAAS AI Web Service that provides AI analytics and summary based on the call recording with proper database integration and RestAPI",
       "href": "https://github.com/nikhileshrana",
-      "imageurl": "https://media.licdn.com/dms/image/D5622AQFL9lhnGEyGBg/feedshare-shrink_800/0/1722966041924?e=1726099200&v=beta&t=MN5kxxbFICRQx_KC7a-XWxYafAU1zT1YLR4fBhw29VA"
+      "imageurl": "/1.jpeg"
     },
     {
       "title": "Astroverse Agent Co-Pilot",
       "description": "A Prompt based Judgemental AI that resolves problem of copy/paste and low knowledge based prompts and filters out them by giving a score. which then is resolved by AI to predict the person's Knowledge.",
       "href": "https://github.com/nikhileshrana",
-      "imageurl": "https://media.licdn.com/dms/image/v2/D562DAQF62B2ZVsfsUw/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1723364677993?e=1723971600&v=beta&t=MNs6Ag1DHT8ooJtQcri9HlcetIH5hcqTbzBHtn9G1Y8"
+      "imageurl": "/2.png"
     },
     {
       "title": "Next.js Based Music Player",
       "description": "Seamless play, pause, and replay options Random song selection for a surprise every time Intuitive interface for smooth navigation",
       "href": "https://github.com/nikhileshrana",
-      "imageurl": "https://media.licdn.com/dms/image/v2/D562DAQEYHssCCAt9ug/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1715329416251?e=1723971600&v=beta&t=IGlCaEbjWXLlsSVVDDnnD4aQLlgwTqdL8E9k5Pihf8E"
+      "imageurl": "/3.jpeg"
     }
   ]
 }

@@ -18,7 +18,7 @@ export function Projects(props: any) {
         return null;
     }
 
-    const words = [{ text: "Projects" },{text: "I've Worked On"}];
+    const words = [{ text: "My" },{text: "Projects"}];
 
     return (
         <>
