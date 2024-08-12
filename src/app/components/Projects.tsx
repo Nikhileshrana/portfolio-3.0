@@ -28,12 +28,12 @@ export function Projects(props: any) {
             </div>
 
 
-            <div className="h-full grid grid-cols-2 overflow-hidden justify-around gap-0 sm:px-40 bg-black">
+            <div className="h-full grid grid-cols-1 md:grid-cols-2 overflow-hidden justify-around gap-0 sm:px-40 bg-black">
                 {projectinfo.map((project: any, i: any) => (
-                    <div className="sm:m-16" key={i}>
+                    <div className="m-16" key={i}>
 
                         <PinContainer title={project.title} href={project.href}>
-                            <div className="flex basis-full flex-col tracking-tight text-slate-100/50 sm:basis-1/2 w-36 lg:w-[30rem] lg:h-[20rem]">
+                            <div className="flex  flex-col tracking-tight text-slate-100/50  w-[80vw] md:w-[15rem] md:h-[20rem] lg:w-[30vw] lg:h-[20rem]">
                                 <h3 className="max-w-xs !pb-2 !m-0 font-bold text-base text-slate-100">
                                     {project.title}
                                 </h3>
