@@ -4,8 +4,10 @@ import axios from "axios";
 import { PlaceholdersAndVanishInput } from "@/components/ui/placeholders-and-vanish-input";
 import {TextGenerateEffect} from "@/components/ui/text-generate-effect";
 
-export default function Chatbox() {
 
+
+
+export default function Chatbox() {
 
     const [prompt, setprompt] = useState("");
     const [promptreply, setpromptreply] = useState("Hello, AI Nikhil to the service. ✨🚀");

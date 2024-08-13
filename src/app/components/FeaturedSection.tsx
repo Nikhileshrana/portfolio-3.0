@@ -5,7 +5,7 @@ import { WobbleCard } from "@/components/ui/wobble-card";
 import { BackgroundBeams } from "@/components/ui/background-beams";
 import MagicButton from "@/app/components/MagicButton";
 import { IoCopyOutline } from "react-icons/io5";
-import { Meteors } from "@/components/ui/meteors";
+
 
 export function FeaturesSectionDemo(props:any) {
   const [copied, setCopied] = useState(false);
@@ -43,7 +43,6 @@ export function FeaturesSectionDemo(props:any) {
         containerClassName="col-span-1 min-h-[300px]"
         className="bg-[#0b0b0b] relative flex flex-col items-center justify-center"
       >
-        <Meteors number={20} />
         <p className="text-white text-sm md:text-2xl max-w-xl font-bold mt-6 text-center ">
         Liked my Portfolio? Here is my email address. 
         </p>
