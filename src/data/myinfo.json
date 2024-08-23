@@ -24,22 +24,22 @@
   },
   "testimonials": [
     {
-      "quote": "To be, or not to be, that is the question: ...",
+      "quote": "Nikhilesh brings both talent and enthusiasm to the table. His contributions were invaluable.",
       "name": "Rishi",
       "title": "CO-Founder SubverseAI"
     },
     {
-      "quote": "All that we see or seem is but a dream within a dream.",
+      "quote": "His technical skills and positive attitude made every project a success.",
       "name": "Tanmay Lad",
       "title": "CO-Founder SubverseAI"
     },
     {
-      "quote": "It is a truth universally acknowledged, that ...",
+      "quote": "During his time at Powerzest, Nikhilesh demonstrated strong technical expertise and a proactive approach to problem-solving. His contributions were always of the highest quality.",
       "name": "Avinash Gupta",
       "title": "CO-Founder Powerzest"
     },
     {
-      "quote": "Call me Ishmael. Some years ago—never mind how long precisely—...",
+      "quote": "Sharp, focused, and always ready to help—Nikhilesh is a developer you can count on.",
       "name": "Raj Oak",
       "title": "CO-Founder ZUGO"
     }
@@ -51,7 +51,7 @@
     },
     {
       "card2": "Development & Coding",
-      "des2": "Write clean, modular, and efficient code using best practices in your preferred languages and frameworks (e.g., Next.js, React.js, TypeScript)."
+      "des2": "Write clean, modular, and efficient code using best practices in your preferred languages and frameworks (e.g., Next.js, React.js, TypeScript). with support of NextAUTH.js for authentication and authorization."
     },
     {
       "card3": "Development & Launch",
@@ -62,19 +62,19 @@
     {
       "title": "SubverseAI SAAS",
       "description": "Creted an SAAS AI Web Service that provides AI analytics and summary based on the call recording with proper database integration and RestAPI",
-      "href": "https://github.com/nikhileshrana",
+      "href": "https://subverseai-rho.vercel.app/",
       "imageurl": "/1.jpeg"
     },
     {
       "title": "Astroverse Agent Co-Pilot",
       "description": "A Prompt based Judgemental AI that resolves problem of copy/paste and low knowledge based prompts and filters out them by giving a score. which then is resolved by AI to predict the person's Knowledge.",
-      "href": "https://github.com/nikhileshrana",
+      "href": "https://agent-copilot-astrodude.vercel.app/",
       "imageurl": "/2.png"
     },
     {
       "title": "Next.js Based Music Player",
       "description": "Seamless play, pause, and replay options Random song selection for a surprise every time Intuitive interface for smooth navigation",
-      "href": "https://github.com/nikhileshrana",
+      "href": "https://astrodude-music-player.vercel.app/",
       "imageurl": "/3.jpeg"
     }
   ]
