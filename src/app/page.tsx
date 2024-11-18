@@ -11,20 +11,6 @@ import axios from "axios";
 import Data from "@/data/myinfo.json";
 
 const Page = () => {
-
-
-  // const getdata = async ()=>
-  //   {
-  //     try 
-  //     {
-  //       const response = await axios.post("/api/fetchdata",{});
-  //       console.log(response.data);
-  //     }
-  //     catch(e)
-  //     {
-  //       console.log("Error");
-  //     }
-  //   }
   
   return (
     <>
